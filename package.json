@@ -1,7 +1,7 @@
 {
-  "name": "react-three-vite",
+  "name": "blockrooms-waitlist",
   "version": "1.0.2",
-  "description": "A simple React Three Fiber + Vite starter with an import-ready CodeSandbox config.",
+  "description": "WAITLIST FOR THE UPCOMING ONCHAIN GAME",
   "keywords": [
     "r3f",
     "react",
@@ -12,9 +12,7 @@
     "sandbox",
     "codesandbox"
   ],
-  "author": "Benjamin Miles <talk@benjaminmiles.com> (https://github.com/benjaminmiles)",
-  "repository": "github:benjaminmiles/react-three-vite",
-  "license": "MIT",
+
   "dependencies": {
     "@react-three/drei": "^9.115.0",
     
